@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="ble_not_supported">Bluetooth Low Energy not Available</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_paired_devices">paired_devices</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="main_tab1">Principal</string>
+    <string name="main_tab2">Lista Coletas</string>
+</resources>
