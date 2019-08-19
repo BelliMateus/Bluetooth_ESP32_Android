@@ -80,7 +80,7 @@ public class MainActivityBluetooth extends AppCompatActivity {
                 connect = new ConnectionThread(data.getStringExtra("btDevAddress"));
 
             }else{
-                tvStatusMessage.setText("Nenhum dispositivo selecionado");
+                tvStatusMessage.setText(R.string.any_connected_devices);
             }
         }
 
